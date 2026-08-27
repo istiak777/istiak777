@@ -5,7 +5,7 @@ CSE graduate and full-stack developer, exploring **AI-native / agentic software 
 - 🔭 Currently building: full-stack web apps (React.js / Node.js / MongoDB) and experimenting with agentic dev workflows
 - 🌱 Learning: MCP servers, sub-agent orchestration, AGENTS.md / CLAUDE.md context engineering
 - 💼 Experience: Junior Developer at Bor De Guna — e-commerce web portal, React.js, Agile sprints
-- 🎯 Looking for: Software Engineering / Agentic AI Engineering internships and roles
+- 🎯 Looking for: Software Engineering /  AI Engineering internships and roles
 - 📫 Reach me: istiakefat99@gmail.com · [LinkedIn](https://linkedin.com/in/istiak-ahmadefat)
 
 ---
